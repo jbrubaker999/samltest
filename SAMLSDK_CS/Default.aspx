@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>SAML_SDK</title>
+    <title>SAML_SDK test</title>
 </head>
 <body>
 
